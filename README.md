@@ -1,4 +1,4 @@
-# TRABALHO 01:  Título do Trabalho
+# TRABALHO 01:  Recmovies
 Trabalho desenvolvido durante a disciplina de BD1
 
 # Sumário
@@ -9,7 +9,7 @@ Vitor Zanoni Bermudes: vitorzanonib@gmail.com<br>
 Graziene Viana Martins: grazienemartins@yahoo.com.br<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
+Este documento contém a especificação do projeto do banco de dados <Recmovies> 
 <br>e motivação da escolha realizada. <br>
 
 > A empresa "Devcom Projetos" visa colaborar com desenvolvimento de projetos para uma sociedade melhor. Sabendo-se dos desafios para gerenciar projetos dentro de uma empresa e visando unir as informações relativas a funcionários, departamentos e projetos em um mesmo local, ficamos motivados com o desenvolvimento deste sistema. O Sistema "Devcom" tem como objetivo gerenciar todas as informações ao desenvolvimento das atividades de projetos em diversas localidades do país. Para realizar suas operações adequadamente e empresa necessita que sistema que armazene informações relativas aos Projetos, Departamentos e Empregados, além de também armazenar dados sobre  Dependentes e Históricos de Salário dos empregados. O sistema deverá gerar um conjunto de relatórios que por sua vez atenderá os anseios da empresa em questão.
